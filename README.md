@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/batg6htqapx5bnui?svg=true)](https://ci.appveyor.com/project/fat0n/net-autobdd)
+[![Build status](https://ci.appveyor.com/api/projects/status/mr1m6tc65ao5xrmn?svg=true)](https://ci.appveyor.com/project/fat0n/net-autobdd2)
